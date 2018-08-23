@@ -1,0 +1,16 @@
+Container
+a flex-direction: row | row-reverse | column | column-reverse 
+b flex-wrap: nowrap | wrap | wrap-reverse
+c justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly
+d align-items: strech | flex-start | flex-end | center | baseline
+e align-content: strech | flex-start | flex-end | center | space-between | space-around
+
+
+Item 
+a align-self: auto | strech | flex-start | flex-end | center | baseline 
+b order: 0 | <integer>
+c flex-grow: 0 | <integer>
+d flex-shrink: 1 | <integer>
+e flex-basis: auto | <length>
+
+flex: flex-grow flex-shrink flex-basis
